@@ -1,31 +1,23 @@
 # Multi_Agent_Deep_Reinforcement_Learning
 
+
+## Synopsis
+
 Implement Google Deep Minds DQN for multiple agents for a grid world environment where vehicles must pick up customers.
 
 ## Installation
 
-TODO: Describe the installation process
+Make sure you have Theano, Keras, Numpy. Training on GPUs is advised.
 
 ## Usage
 
 TODO: Write usage instructions
 
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-## History
+## Tests
 
 TODO: Write history
 
-## Credits
+## Contributors
 
-TODO: Write credits
+canepunma1@gmail.com
 
-## License
-
-TODO: Write license
